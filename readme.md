@@ -8,4 +8,4 @@
 >
 > Add new customer: /api/customer/new
 >
-> Get customer details: /api/customer/view/[Customer ID]
+> Get customer details: /api/customer/view/[Customer Code]
